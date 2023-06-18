@@ -245,7 +245,8 @@ span{
     display: flex;
     justify-content: center;
     align-items: center;
-    border-top: 0.5 solid white;
+    border-style: ;
+    border-top: 0.5px solid white;
  }
 
 .logo{
